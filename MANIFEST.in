@@ -1,0 +1,4 @@
+include README.md
+recursive-include timberwyck/static *
+recursive-include timberwyck/templates *
+recursive-include timberwyck/apps *
